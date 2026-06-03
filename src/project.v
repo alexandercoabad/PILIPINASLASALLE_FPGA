@@ -1,6 +1,6 @@
 `default_nettype none
 
-module tt_um_factory_test (
+module tt_um_PILIPINASLASALLE (
     input  wire [7:0] ui_in,    // [3:0]=Static,=Manual Sub-mode,=Btn Step,=Inverted Toggle
     output reg  [7:0] uo_out,   // Dedicated outputs 
     input  wire [7:0] uio_in,   // IOs: Input path (unused)
@@ -156,4 +156,4 @@ module tt_um_factory_test (
   // Clean tracking array block: Pin 6 is the single completely unused input pin
   wire [9:0] _unused_pins = {ena, ui_in[6], uio_in};
 
-endmodule  // tt_um_factory_test
+endmodule  
