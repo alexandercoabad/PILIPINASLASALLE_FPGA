@@ -18,9 +18,9 @@ Based on https://wokwi.com/projects/392873974467527681
 |   ui_in[3:0]     | Static Selection| Hexadecimal index inputs (0–15) to instantly pick specific characters when in Static Switch Mode|
 
 
-On power-up, the 7-segment display should display the text PILIPINASLASALLE one at a time per clock cycle. The "dp" output toggles every clock cycle.
+On power-up, the 7-segment display should display the text PILIPINASLASALLE one at a time per clock cycle. 
 
-Setting input pin 7 to HIGH enables manual override of the BCD value. In this mode, input pins 0-3 controls the BCD value. The text displayed for each BCD value are tabulated below:
+Setting input pin 7 to HIGH enables manual override of the BCD value. In this mode, input pins 0-3 control the BCD value. The text displayed for each BCD value are tabulated below:
 | **in0** | **in1** | **in2** | **in3** | **Character** |
 |:-------:|:-------:|:-------:|:-------:|:-------------:|
 |   LOW   |   LOW   |   LOW   |   LOW   |       P       |
