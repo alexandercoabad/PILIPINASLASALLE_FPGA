@@ -4,6 +4,8 @@
 
 Based on https://wokwi.com/projects/392873974467527681
 
+Link to the video: https://www.linkedin.com/posts/alexander-co-abad-79445767_tiny-tapeout-fpga-is-a-low-cost-open-source-ugcPost-7467771872688975872-Aqdf/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4gaKABRk1KxBdDQFTnsu-IalkZq-7v9R4
+
 ## 2D view
 
 <img width="1628" height="1140" alt="image" src="https://github.com/user-attachments/assets/bd536912-f0c8-469e-92f4-79662a9d1b62" />
