@@ -4,11 +4,12 @@
 
 Based on https://wokwi.com/projects/392873974467527681
 
-## What is Tiny Tapeout?
+## 2D view
 
-Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital and analog designs manufactured on a real chip.
+<img width="1628" height="1140" alt="image" src="https://github.com/user-attachments/assets/bd536912-f0c8-469e-92f4-79662a9d1b62" />
 
-To learn more and get started, visit https://tinytapeout.com.
+## 3D view
+
 
 ## Set up your Verilog project
 
