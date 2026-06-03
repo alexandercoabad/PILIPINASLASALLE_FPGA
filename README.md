@@ -1,8 +1,8 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Verilog Project Template
+# PILIPINASLASALLE uploaded in FPGA
 
-- [Read the documentation for project](docs/info.md)
+Based on https://wokwi.com/projects/392873974467527681
 
 ## What is Tiny Tapeout?
 
