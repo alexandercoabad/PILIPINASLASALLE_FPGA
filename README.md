@@ -9,6 +9,10 @@ Based on https://wokwi.com/projects/392873974467527681
 <img width="1628" height="1140" alt="image" src="https://github.com/user-attachments/assets/bd536912-f0c8-469e-92f4-79662a9d1b62" />
 
 ## 3D view
+link: https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/PILIPINASLASALLE_FPGA/tinytapeout.oas&pdk=sky130A
+
+<img width="996" height="654" alt="Screenshot 2026-06-03 at 12 32 42 PM" src="https://github.com/user-attachments/assets/26a5a97c-efaa-4aca-a92e-4daec7f95cf1" />
+
 
 
 ## Set up your Verilog project
